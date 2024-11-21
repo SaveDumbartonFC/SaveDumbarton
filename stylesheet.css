@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(0deg, #000000 0%, #ffdd00 100%);
+}
+
+h1 {
+  color: #020440;
+  text-align: center;
+}
+
+p {
+  font-family: copperplate;
+  font-size: 20px;
+}
